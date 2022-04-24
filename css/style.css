@@ -1,7 +1,66 @@
 /* ==========COMPONENTS========== */
+.first-nav:hover, 
+.first-nav:focus {
+color: #2196F3;
+}
+.our-names {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    /* identical to box height */
 
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+}
+.profesi {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
 /* ==========/COMPONENTS========== */
 /* ==========HEADER========== */
+
+.first-sky{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.first-hero {
+    background: #2F303A;
+}
+.first-btn {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    background: #2196F3;
+    color: #FFFFFF;
+}
+.first-btn:hover, 
+.first-btn:focus {
+    background: #188CE8;
+    color: #188CE8;
+}
+
+
 .sky {
     background-color: #FFFFFF;
 }
@@ -128,6 +187,35 @@
 /* ==========/HEADER========== */
 
 /* ==========HERO========== */
+.main-header {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+.main-text {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.5;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.our-team {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
 .hero-title {
     font-family: 'Roboto';
     font-style: normal;
