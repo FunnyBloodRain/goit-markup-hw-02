@@ -1,7 +1,10 @@
-/* ==========COMPONENTS========== */
-.our-names {
+body {
     font-family: 'Roboto',
         sans-serif;
+}
+
+/* ==========COMPONENTS========== */
+.our-names {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -11,8 +14,6 @@
 }
 
 .profesi {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
@@ -26,8 +27,6 @@
 }
 
 .logo {
-    font-family: 'Raleway',
-        sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -37,8 +36,6 @@
 }
 
 .logo-color {
-    font-family: 'Raleway',
-        sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -55,8 +52,6 @@
 
 /* =============FOOTER=============== */
 .link-adrres {
-    font-family: 'Roboto',
-        sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -87,8 +82,6 @@
 }
 
 .first-sky {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -107,8 +100,6 @@
 }
 
 .menu-sky {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -117,8 +108,6 @@
 }
 
 .sky-mail {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -127,8 +116,6 @@
 }
 
 .sky-tel {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -137,8 +124,6 @@
 }
 
 .menu-page {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -147,8 +132,6 @@
 }
 
 .link-foot {
-    font-family: 'Roboto',
-        sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -164,8 +147,6 @@
 }
 
 .hero-btn {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -195,8 +176,6 @@
 }
 
 .filter-buttton {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.14;
@@ -206,8 +185,6 @@
 }
 
 .main-header {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -217,8 +194,6 @@
 }
 
 .main-text {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.5;
@@ -227,8 +202,6 @@
 }
 
 .our-team {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
@@ -238,8 +211,6 @@
 }
 
 .hero-title {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -248,8 +219,6 @@
 }
 
 .info {
-    font-family: 'Roboto',
-        sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
