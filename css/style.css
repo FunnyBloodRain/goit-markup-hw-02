@@ -1,11 +1,7 @@
-
 /* ==========COMPONENTS========== */
-
-
-
 .our-names {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -13,9 +9,10 @@
     letter-spacing: 0.03em;
     color: #212121;
 }
+
 .profesi {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
@@ -24,14 +21,9 @@
     color: #757575;
 }
 
-
-
-
 .list {
     list-style: none;
 }
-
-
 
 .logo {
     font-family: 'Raleway',
@@ -44,7 +36,6 @@
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-
 .logo-color {
     font-family: 'Raleway',
         sans-serif;
@@ -56,13 +47,11 @@
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-
 .menu-link {
     color: #212121;
 }
 
 /* ==========/COMPONENTS========== */
-
 
 /* =============FOOTER=============== */
 .link-adrres {
@@ -80,9 +69,6 @@
     background-color: #2F303A;
 }
 
-
-
-
 .logo-foot {
     font-family: 'Raleway',
         sans-serif;
@@ -93,15 +79,12 @@
     color: #FFFFFF;
 }
 
-
 /* =============/FOOTER=============== */
-/* ==========HEADER========== */ 
+/* ==========HEADER========== */
 .sky-nav:hover,
 .sky-nav:focus {
     color: #2196F3;
 }
-
-
 
 .first-sky {
     font-family: 'Roboto',
@@ -119,11 +102,9 @@
     background-color: #FFFFFF;
 }
 
-
 .link {
     text-decoration: none;
 }
-
 
 .menu-sky {
     font-family: 'Roboto',
@@ -135,7 +116,6 @@
     color: #212121;
 }
 
-
 .sky-mail {
     font-family: 'Roboto',
         sans-serif;
@@ -145,7 +125,6 @@
     letter-spacing: 0.02em;
     color: #757575;
 }
-
 
 .sky-tel {
     font-family: 'Roboto',
@@ -157,9 +136,6 @@
     color: #757575;
 }
 
-
-
-
 .menu-page {
     font-family: 'Roboto',
         sans-serif;
@@ -169,7 +145,6 @@
     letter-spacing: 0.02em;
     color: #2196F3;
 }
-
 
 .link-foot {
     font-family: 'Roboto',
@@ -183,14 +158,14 @@
 }
 
 /* ==========/HEADER========== */
-
 /* ==========HERO========== */
 .first-hero {
     background: #2F303A;
 }
+
 .hero-btn {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -202,14 +177,12 @@
     color: #FFFFFF;
     cursor: pointer;
 }
-.hero-btn:hover, 
+
+.hero-btn:hover,
 .hero-btn:focus {
     background: #188CE8;
     color: #188CE8;
 }
-
-
-
 
 .filter-button {
     cursor: pointer;
@@ -232,14 +205,9 @@
     color: #212121;
 }
 
-
-
-
-
-
 .main-header {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -247,18 +215,20 @@
     text-transform: uppercase;
     color: #212121;
 }
+
 .main-text {
-font-family: 'Roboto',
-sans-serif;
-font-weight: 400;
-font-size: 14px;
-line-height: 1.5;
-letter-spacing: 0.03em;
-color: #757575;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
+
 .our-team {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
@@ -266,9 +236,10 @@ color: #757575;
     letter-spacing: 0.03em;
     color: #212121;
 }
+
 .hero-title {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -278,17 +249,12 @@ color: #757575;
 
 .info {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
     color: #757575;
-/* ==========/HERO========== */
+    /* ==========/HERO========== */
 
-
-
-
-
-
-/* ================THE END=============== */
+    /* ================THE END=============== */
